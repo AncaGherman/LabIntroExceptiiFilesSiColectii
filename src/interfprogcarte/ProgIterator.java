@@ -22,6 +22,12 @@ public class ProgIterator {
             listAllCars(cars);
             cars.add("Mercedes");
             listAllCars(cars);
+            System.out.println();
+            System.out.println(cars);
+            cars.add(3,"Fiat");
+            System.out.println(cars);
+            cars.add(4,"Dacia");
+            listAllCars(cars);
 
         }
         static void listAllCars(ArrayList cars) {
