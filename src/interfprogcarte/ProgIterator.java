@@ -28,7 +28,6 @@ public class ProgIterator {
             System.out.println(cars);
             cars.add(4,"Dacia");
             listAllCars(cars);
-
         }
         static void listAllCars(ArrayList cars) {
             Iterator it1 = cars.iterator();

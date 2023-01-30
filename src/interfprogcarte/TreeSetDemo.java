@@ -14,6 +14,7 @@ public class TreeSetDemo {
             ts.add("Maria");
             ts.add("Ana");
             ts.add("Isabela");
+            ts.add("Nadia");
             ts.add("Anca");
             ts.add("Maria");
             ts.add("Ana");
